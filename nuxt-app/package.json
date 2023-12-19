@@ -16,6 +16,8 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "keycloak-js": "^23.0.3"
+    "@pinia/nuxt": "^0.5.1",
+    "keycloak-js": "^23.0.3",
+    "pinia": "^2.1.7"
   }
 }
